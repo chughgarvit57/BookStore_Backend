@@ -1,0 +1,1242 @@
+2025-05-05 22:09:01.0342 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-05 22:09:01.0533 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-05 22:09:01.0865 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-05 22:09:01.1052 Info Configuration initialized.
+2025-05-05 22:09:02.0342 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:00:24.8118 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:00:24.8373 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:00:24.8629 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:00:24.8768 Info Configuration initialized.
+2025-05-06 00:00:25.9902 Info Shutdown() called. Logger closing...
+2025-05-06 00:00:25.9902 Info Closing old configuration.
+2025-05-06 00:00:25.9991 Info Logger has been closed down.
+2025-05-06 00:00:25.9991 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:00:25.9991 Info LogFactory has been closed.
+2025-05-06 00:01:16.2189 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:01:16.2521 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:01:16.3361 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:01:16.3603 Info Configuration initialized.
+2025-05-06 00:01:18.0018 Info Shutdown() called. Logger closing...
+2025-05-06 00:01:18.0018 Info Closing old configuration.
+2025-05-06 00:01:18.0313 Info Logger has been closed down.
+2025-05-06 00:01:18.0475 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:01:18.0475 Info LogFactory has been closed.
+2025-05-06 00:01:40.0643 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:01:40.1049 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:01:40.1759 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:01:40.2006 Info Configuration initialized.
+2025-05-06 00:01:41.1789 Info Shutdown() called. Logger closing...
+2025-05-06 00:01:41.1789 Info Closing old configuration.
+2025-05-06 00:01:41.1895 Info Logger has been closed down.
+2025-05-06 00:01:41.1895 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:01:41.1978 Info LogFactory has been closed.
+2025-05-06 00:02:19.2391 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:02:19.2646 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:02:19.3176 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:02:19.3443 Info Configuration initialized.
+2025-05-06 00:02:21.3033 Info Shutdown() called. Logger closing...
+2025-05-06 00:02:21.3033 Info Closing old configuration.
+2025-05-06 00:02:21.3179 Info Logger has been closed down.
+2025-05-06 00:02:21.3276 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:02:21.3276 Info LogFactory has been closed.
+2025-05-06 00:02:49.9871 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:02:50.0127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:02:50.0560 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:02:50.0740 Info Configuration initialized.
+2025-05-06 00:02:51.2478 Info Shutdown() called. Logger closing...
+2025-05-06 00:02:51.2478 Info Closing old configuration.
+2025-05-06 00:02:51.2478 Info Logger has been closed down.
+2025-05-06 00:02:51.2674 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:02:51.2674 Info LogFactory has been closed.
+2025-05-06 00:03:12.3974 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:03:12.4271 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:03:12.4729 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:03:12.4923 Info Configuration initialized.
+2025-05-06 00:03:13.6815 Info Shutdown() called. Logger closing...
+2025-05-06 00:03:13.6815 Info Closing old configuration.
+2025-05-06 00:03:13.6965 Info Logger has been closed down.
+2025-05-06 00:03:13.7050 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:03:13.7050 Info LogFactory has been closed.
+2025-05-06 00:04:04.6402 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:04:04.6640 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:04:04.7361 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:04:04.7533 Info Configuration initialized.
+2025-05-06 00:04:06.0005 Info Shutdown() called. Logger closing...
+2025-05-06 00:04:06.0005 Info Closing old configuration.
+2025-05-06 00:04:06.0230 Info Logger has been closed down.
+2025-05-06 00:04:06.0318 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:04:06.0318 Info LogFactory has been closed.
+2025-05-06 00:05:32.8065 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:05:32.8265 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:05:32.8553 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:05:32.8761 Info Configuration initialized.
+2025-05-06 00:05:34.2365 Info Shutdown() called. Logger closing...
+2025-05-06 00:05:34.2365 Info Closing old configuration.
+2025-05-06 00:05:34.2506 Info Logger has been closed down.
+2025-05-06 00:05:34.2602 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:05:34.2602 Info LogFactory has been closed.
+2025-05-06 00:15:40.2211 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:15:40.2371 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:15:40.2773 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:15:40.2964 Info Configuration initialized.
+2025-05-06 00:15:41.9962 Info Shutdown() called. Logger closing...
+2025-05-06 00:15:41.9971 Info Closing old configuration.
+2025-05-06 00:15:42.0139 Info Logger has been closed down.
+2025-05-06 00:15:42.0267 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:15:42.0267 Info LogFactory has been closed.
+2025-05-06 00:25:45.0439 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 00:25:45.0654 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 00:25:45.0973 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 00:25:45.1135 Info Configuration initialized.
+2025-05-06 00:25:46.5894 Info Shutdown() called. Logger closing...
+2025-05-06 00:25:46.5894 Info Closing old configuration.
+2025-05-06 00:25:46.5894 Info Logger has been closed down.
+2025-05-06 00:25:46.6073 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 00:25:46.6073 Info LogFactory has been closed.
+2025-05-06 09:22:38.0970 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 09:22:38.1126 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 09:22:38.1464 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 09:22:38.1632 Info Configuration initialized.
+2025-05-06 09:22:39.3056 Info Shutdown() called. Logger closing...
+2025-05-06 09:22:39.3056 Info Closing old configuration.
+2025-05-06 09:22:39.3204 Info Logger has been closed down.
+2025-05-06 09:22:39.3409 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 09:22:39.3409 Info LogFactory has been closed.
+2025-05-06 09:22:53.9182 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 09:22:53.9363 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 09:22:53.9816 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 09:22:54.0218 Info Configuration initialized.
+2025-05-06 09:22:55.2221 Info Shutdown() called. Logger closing...
+2025-05-06 09:22:55.2221 Info Closing old configuration.
+2025-05-06 09:22:55.2221 Info Logger has been closed down.
+2025-05-06 09:22:55.2429 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 09:22:55.2429 Info LogFactory has been closed.
+2025-05-06 09:26:23.4743 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 09:26:23.4900 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 09:26:23.4957 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 09:26:23.5218 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 09:26:23.5387 Info Configuration initialized.
+2025-05-06 09:26:24.7159 Info Shutdown() called. Logger closing...
+2025-05-06 09:26:24.7159 Info Closing old configuration.
+2025-05-06 09:26:24.7405 Info Logger has been closed down.
+2025-05-06 09:26:24.7509 Info AppDomain Shutting down. LogFactory closing...
+2025-05-06 09:26:24.7509 Info LogFactory has been closed.
+2025-05-06 09:27:46.2372 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 09:27:46.2533 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 09:27:46.2626 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 09:27:46.3321 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 09:27:46.3574 Info Configuration initialized.
+2025-05-06 09:27:47.3639 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 09:34:47.9324 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 09:34:47.9466 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 09:34:47.9546 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 09:34:47.9825 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 09:34:48.0037 Info Configuration initialized.
+2025-05-06 09:34:48.7074 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:00:24.1532 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 10:00:24.1660 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 10:00:24.1728 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 10:00:24.2056 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:00:24.2287 Info Configuration initialized.
+2025-05-06 10:00:25.1613 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:07:19.6487 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 10:07:19.6677 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 10:07:19.6677 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 10:07:19.7460 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:07:19.7641 Info Configuration initialized.
+2025-05-06 10:07:20.5055 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:17:01.2077 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 10:17:01.2191 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 10:17:01.2191 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 10:17:01.2626 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:17:01.2799 Info Configuration initialized.
+2025-05-06 10:17:02.1270 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:33:47.8039 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 10:33:47.8156 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 10:33:47.8227 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 10:33:47.8583 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:33:47.8770 Info Configuration initialized.
+2025-05-06 10:33:48.9275 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:51:59.2236 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 10:51:59.2325 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 10:51:59.2325 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 10:51:59.2702 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 10:51:59.2894 Info Configuration initialized.
+2025-05-06 10:52:00.3328 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 11:00:28.0610 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 11:00:28.0728 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 11:00:28.0813 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 11:00:28.1144 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 11:00:28.1510 Info Configuration initialized.
+2025-05-06 11:00:29.3065 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 11:10:07.8082 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 11:10:07.8230 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 11:10:07.8230 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 11:10:07.8654 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 11:10:07.8833 Info Configuration initialized.
+2025-05-06 11:10:08.9695 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 11:45:05.0054 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 11:45:05.0139 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 11:45:05.0225 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 11:45:05.0544 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 11:45:05.0665 Info Configuration initialized.
+2025-05-06 11:45:06.6499 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 11:55:42.6414 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 11:55:42.6540 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 11:55:42.6540 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 11:55:42.6987 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 11:55:42.7159 Info Configuration initialized.
+2025-05-06 11:55:43.6568 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:14:11.9195 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 13:14:11.9352 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 13:14:11.9352 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 13:14:11.9784 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:14:11.9979 Info Configuration initialized.
+2025-05-06 13:14:13.7878 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:37:24.4669 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 13:37:24.4747 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 13:37:24.4747 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 13:37:24.5182 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:37:24.5350 Info Configuration initialized.
+2025-05-06 13:37:26.1348 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:38:16.1064 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 13:38:16.1144 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 13:38:16.1225 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 13:38:16.1525 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:38:16.1713 Info Configuration initialized.
+2025-05-06 13:38:17.1107 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:51:01.3718 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 13:51:01.3808 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 13:51:01.3808 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 13:51:01.4279 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:51:01.4406 Info Configuration initialized.
+2025-05-06 13:51:03.0112 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:52:22.6842 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 13:52:22.7012 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 13:52:22.7157 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 13:52:22.8083 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 13:52:22.8431 Info Configuration initialized.
+2025-05-06 13:52:23.8472 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 14:00:02.2358 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 14:00:02.2575 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 14:00:02.2798 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 14:00:02.3375 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 14:00:02.3652 Info Configuration initialized.
+2025-05-06 14:00:03.4948 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 14:17:30.6458 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 14:17:30.6567 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 14:17:30.6567 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 14:17:30.7431 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 14:17:30.7604 Info Configuration initialized.
+2025-05-06 14:17:31.6688 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 14:28:59.9305 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 14:28:59.9417 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 14:28:59.9493 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 14:28:59.9785 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 14:29:00.0012 Info Configuration initialized.
+2025-05-06 14:29:00.9250 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 15:28:08.4503 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 15:28:08.4597 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 15:28:08.4662 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 15:28:08.4934 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 15:28:08.5051 Info Configuration initialized.
+2025-05-06 15:28:09.2995 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 15:37:58.2891 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 15:37:58.2953 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 15:37:58.3004 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 15:37:58.3240 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 15:37:58.3391 Info Configuration initialized.
+2025-05-06 15:37:59.2199 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 15:53:03.2388 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 15:53:03.2504 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 15:53:03.2630 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 15:53:03.3195 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 15:53:03.3404 Info Configuration initialized.
+2025-05-06 15:53:04.4626 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:43:33.7405 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 21:43:33.7472 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 21:43:33.7472 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 21:43:33.7636 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:43:33.7636 Info Configuration initialized.
+2025-05-06 21:43:34.0792 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:43:34.1016 Info Shutdown() called. Logger closing...
+2025-05-06 21:43:34.1016 Info Closing old configuration.
+2025-05-06 21:43:34.1108 Info Logger has been closed down.
+2025-05-06 21:43:49.1640 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 21:43:49.1640 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 21:43:49.1748 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 21:43:49.1748 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:43:49.1924 Info Configuration initialized.
+2025-05-06 21:43:49.3911 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:43:49.4098 Info Shutdown() called. Logger closing...
+2025-05-06 21:43:49.4098 Info Closing old configuration.
+2025-05-06 21:43:49.4184 Info Logger has been closed down.
+2025-05-06 21:43:56.4915 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 21:43:56.4968 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 21:43:56.4968 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 21:43:56.4968 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:43:56.4968 Info Configuration initialized.
+2025-05-06 21:43:56.7242 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:43:56.7318 Info Shutdown() called. Logger closing...
+2025-05-06 21:43:56.7318 Info Closing old configuration.
+2025-05-06 21:43:56.7533 Info Logger has been closed down.
+2025-05-06 21:44:17.5251 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 21:44:17.5329 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 21:44:17.5329 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 21:44:17.5495 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:44:17.5635 Info Configuration initialized.
+2025-05-06 21:44:17.7756 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 21:44:17.7826 Info Shutdown() called. Logger closing...
+2025-05-06 21:44:17.7826 Info Closing old configuration.
+2025-05-06 21:44:17.8003 Info Logger has been closed down.
+2025-05-06 22:50:56.7658 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 22:50:56.7728 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 22:50:56.7778 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 22:50:56.8022 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 22:50:56.8122 Info Configuration initialized.
+2025-05-06 22:50:57.9569 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:14:49.6379 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 23:14:49.6501 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 23:14:49.6501 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 23:14:49.6966 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:14:49.7127 Info Configuration initialized.
+2025-05-06 23:14:50.6284 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:15:36.1061 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 23:15:36.1130 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 23:15:36.1130 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 23:15:36.1443 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:15:36.1604 Info Configuration initialized.
+2025-05-06 23:15:37.0293 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:22:37.7089 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 23:22:37.7227 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 23:22:37.7227 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 23:22:37.7757 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:22:37.7922 Info Configuration initialized.
+2025-05-06 23:22:38.5644 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:31:25.9665 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 23:31:25.9665 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 23:31:25.9762 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 23:31:25.9762 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:31:25.9925 Info Configuration initialized.
+2025-05-06 23:31:26.1790 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:31:26.1860 Info Shutdown() called. Logger closing...
+2025-05-06 23:31:26.1860 Info Closing old configuration.
+2025-05-06 23:31:26.2035 Info Logger has been closed down.
+2025-05-06 23:32:03.8939 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 23:32:03.8939 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 23:32:03.8939 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 23:32:03.9138 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:32:03.9220 Info Configuration initialized.
+2025-05-06 23:32:04.1205 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:32:04.1398 Info Shutdown() called. Logger closing...
+2025-05-06 23:32:04.1398 Info Closing old configuration.
+2025-05-06 23:32:04.1486 Info Logger has been closed down.
+2025-05-06 23:59:00.8916 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-06 23:59:00.8987 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-06 23:59:00.9037 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-06 23:59:00.9303 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-06 23:59:00.9474 Info Configuration initialized.
+2025-05-06 23:59:01.6373 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:02:21.1873 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:02:21.1873 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 00:02:21.1873 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:02:21.2068 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:02:21.2152 Info Configuration initialized.
+2025-05-07 00:02:21.3941 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:02:21.4005 Info Shutdown() called. Logger closing...
+2025-05-07 00:02:21.4005 Info Closing old configuration.
+2025-05-07 00:02:21.4005 Info Logger has been closed down.
+2025-05-07 00:02:36.2411 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:02:36.2411 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 00:02:36.2500 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:02:36.2500 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:02:36.2659 Info Configuration initialized.
+2025-05-07 00:02:36.4421 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:02:36.4575 Info Shutdown() called. Logger closing...
+2025-05-07 00:02:36.4575 Info Closing old configuration.
+2025-05-07 00:02:36.4659 Info Logger has been closed down.
+2025-05-07 00:03:16.4907 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:03:16.5046 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 00:03:16.5120 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:03:16.5393 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:03:16.5504 Info Configuration initialized.
+2025-05-07 00:03:17.2237 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:16:14.0660 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:16:14.0804 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 00:16:14.0804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:16:14.1222 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:16:14.1383 Info Configuration initialized.
+2025-05-07 00:16:15.0265 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:17:40.1968 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:17:40.2068 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 00:17:40.2162 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:17:40.2670 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:17:40.3083 Info Configuration initialized.
+2025-05-07 00:17:41.1781 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:18:21.1538 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:18:21.1619 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 00:18:21.1670 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:18:21.1670 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:18:21.2040 Info Configuration initialized.
+2025-05-07 00:18:21.9887 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:20:41.3899 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 00:20:41.4117 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 00:20:41.4223 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 00:20:41.4567 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 00:20:41.4749 Info Configuration initialized.
+2025-05-07 00:20:42.4559 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 09:53:49.8593 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 09:53:49.8665 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 09:53:49.8665 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 09:53:49.8837 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 09:53:49.9032 Info Configuration initialized.
+2025-05-07 09:53:50.4930 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 09:53:50.5342 Info Shutdown() called. Logger closing...
+2025-05-07 09:53:50.5342 Info Closing old configuration.
+2025-05-07 09:53:50.5489 Info Logger has been closed down.
+2025-05-07 09:54:55.3767 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 09:54:55.3767 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 09:54:55.3918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 09:54:55.4038 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 09:54:55.4038 Info Configuration initialized.
+2025-05-07 09:54:55.6799 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 09:54:55.7086 Info Shutdown() called. Logger closing...
+2025-05-07 09:54:55.7086 Info Closing old configuration.
+2025-05-07 09:54:55.7222 Info Logger has been closed down.
+2025-05-07 09:59:58.6078 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 09:59:58.6078 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 09:59:58.6229 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 09:59:58.6229 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 09:59:58.6468 Info Configuration initialized.
+2025-05-07 09:59:59.0025 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 09:59:59.0281 Info Shutdown() called. Logger closing...
+2025-05-07 09:59:59.0288 Info Closing old configuration.
+2025-05-07 09:59:59.0288 Info Logger has been closed down.
+2025-05-07 10:02:01.6883 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:02:01.6964 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:02:01.7022 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:02:01.7022 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:02:01.7249 Info Configuration initialized.
+2025-05-07 10:02:01.9949 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:02:02.0173 Info Shutdown() called. Logger closing...
+2025-05-07 10:02:02.0173 Info Closing old configuration.
+2025-05-07 10:02:02.0293 Info Logger has been closed down.
+2025-05-07 10:05:50.5351 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:05:50.5436 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:05:50.5436 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:05:50.5635 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:05:50.5748 Info Configuration initialized.
+2025-05-07 10:05:50.8631 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:05:50.9012 Info Shutdown() called. Logger closing...
+2025-05-07 10:05:50.9012 Info Closing old configuration.
+2025-05-07 10:05:50.9124 Info Logger has been closed down.
+2025-05-07 10:08:11.7042 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:08:11.7042 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:08:11.7042 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:08:11.7301 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:08:11.7399 Info Configuration initialized.
+2025-05-07 10:08:11.9849 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:08:11.9965 Info Shutdown() called. Logger closing...
+2025-05-07 10:08:11.9965 Info Closing old configuration.
+2025-05-07 10:08:12.0184 Info Logger has been closed down.
+2025-05-07 10:09:01.1734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:09:01.1801 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:09:01.1801 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:09:01.1996 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:09:01.2228 Info Configuration initialized.
+2025-05-07 10:09:01.4953 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:09:01.5144 Info Shutdown() called. Logger closing...
+2025-05-07 10:09:01.5144 Info Closing old configuration.
+2025-05-07 10:09:01.5144 Info Logger has been closed down.
+2025-05-07 10:10:55.0705 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:10:55.0705 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:10:55.0705 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:10:55.0947 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:10:55.0947 Info Configuration initialized.
+2025-05-07 10:10:55.3846 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:10:55.4169 Info Shutdown() called. Logger closing...
+2025-05-07 10:10:55.4169 Info Closing old configuration.
+2025-05-07 10:10:55.4291 Info Logger has been closed down.
+2025-05-07 10:26:05.8546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:26:05.8546 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:26:05.8696 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:26:05.8811 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:26:05.8811 Info Configuration initialized.
+2025-05-07 10:26:06.3148 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:26:06.3461 Info Shutdown() called. Logger closing...
+2025-05-07 10:26:06.3461 Info Closing old configuration.
+2025-05-07 10:26:06.3461 Info Logger has been closed down.
+2025-05-07 10:26:25.5276 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:26:25.5276 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:26:25.5410 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:26:25.5525 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:26:25.5666 Info Configuration initialized.
+2025-05-07 10:26:25.8825 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:26:25.9034 Info Shutdown() called. Logger closing...
+2025-05-07 10:26:25.9034 Info Closing old configuration.
+2025-05-07 10:26:25.9034 Info Logger has been closed down.
+2025-05-07 10:26:33.8920 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:26:33.8920 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:26:33.9134 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:26:33.9310 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:26:33.9443 Info Configuration initialized.
+2025-05-07 10:26:34.2786 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:26:34.3043 Info Shutdown() called. Logger closing...
+2025-05-07 10:26:34.3043 Info Closing old configuration.
+2025-05-07 10:26:34.3182 Info Logger has been closed down.
+2025-05-07 10:27:57.8201 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 10:27:57.8278 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 10:27:57.8278 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 10:27:57.8447 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:27:57.8447 Info Configuration initialized.
+2025-05-07 10:27:58.1098 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 10:27:58.1346 Info Shutdown() called. Logger closing...
+2025-05-07 10:27:58.1346 Info Closing old configuration.
+2025-05-07 10:27:58.1450 Info Logger has been closed down.
+2025-05-07 11:02:26.6594 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 11:02:26.6594 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 11:02:26.6594 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 11:02:26.6594 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:02:26.6853 Info Configuration initialized.
+2025-05-07 11:02:26.8759 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:02:26.8964 Info Shutdown() called. Logger closing...
+2025-05-07 11:02:26.8964 Info Closing old configuration.
+2025-05-07 11:02:26.9063 Info Logger has been closed down.
+2025-05-07 11:02:40.5246 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 11:02:40.5299 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 11:02:40.5299 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 11:02:40.5299 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:02:40.5502 Info Configuration initialized.
+2025-05-07 11:02:40.7363 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:02:40.7542 Info Shutdown() called. Logger closing...
+2025-05-07 11:02:40.7542 Info Closing old configuration.
+2025-05-07 11:02:40.7631 Info Logger has been closed down.
+2025-05-07 11:02:48.2101 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 11:02:48.2158 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 11:02:48.2158 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 11:02:48.2158 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:02:48.2158 Info Configuration initialized.
+2025-05-07 11:02:48.4256 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:02:48.4415 Info Shutdown() called. Logger closing...
+2025-05-07 11:02:48.4415 Info Closing old configuration.
+2025-05-07 11:02:48.4415 Info Logger has been closed down.
+2025-05-07 11:03:48.9703 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 11:03:48.9703 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 11:03:48.9703 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 11:03:48.9887 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:03:48.9887 Info Configuration initialized.
+2025-05-07 11:03:49.1925 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:03:49.1997 Info Shutdown() called. Logger closing...
+2025-05-07 11:03:49.2089 Info Closing old configuration.
+2025-05-07 11:03:49.2089 Info Logger has been closed down.
+2025-05-07 11:04:08.0096 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 11:04:08.0198 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 11:04:08.0198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 11:04:08.0198 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:04:08.0449 Info Configuration initialized.
+2025-05-07 11:04:08.2542 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:04:08.2712 Info Shutdown() called. Logger closing...
+2025-05-07 11:04:08.2712 Info Closing old configuration.
+2025-05-07 11:04:08.2712 Info Logger has been closed down.
+2025-05-07 11:04:30.5227 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 11:04:30.5227 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 11:04:30.5320 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 11:04:30.5320 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:04:30.5482 Info Configuration initialized.
+2025-05-07 11:04:30.7349 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 11:04:30.7506 Info Shutdown() called. Logger closing...
+2025-05-07 11:04:30.7506 Info Closing old configuration.
+2025-05-07 11:04:30.7506 Info Logger has been closed down.
+2025-05-07 12:59:11.1747 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 12:59:11.2033 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 12:59:11.2074 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 12:59:11.2074 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 12:59:11.2246 Info Configuration initialized.
+2025-05-07 12:59:11.4381 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 12:59:11.4381 Info Shutdown() called. Logger closing...
+2025-05-07 12:59:11.4381 Info Closing old configuration.
+2025-05-07 12:59:11.4645 Info Logger has been closed down.
+2025-05-07 12:59:26.7172 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 12:59:26.7172 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 12:59:26.7172 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 12:59:26.7172 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 12:59:26.7450 Info Configuration initialized.
+2025-05-07 12:59:26.9400 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 12:59:26.9565 Info Shutdown() called. Logger closing...
+2025-05-07 12:59:26.9565 Info Closing old configuration.
+2025-05-07 12:59:26.9565 Info Logger has been closed down.
+2025-05-07 12:59:39.1682 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 12:59:39.1682 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 12:59:39.1682 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 12:59:39.1872 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 12:59:39.1872 Info Configuration initialized.
+2025-05-07 12:59:39.3892 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 12:59:39.4058 Info Shutdown() called. Logger closing...
+2025-05-07 12:59:39.4058 Info Closing old configuration.
+2025-05-07 12:59:39.4058 Info Logger has been closed down.
+2025-05-07 14:48:41.8980 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 14:48:41.8980 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 14:48:41.9126 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 14:48:41.9498 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 14:48:41.9498 Info Configuration initialized.
+2025-05-07 14:48:43.3211 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:15:46.8411 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:15:46.8411 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:15:46.8509 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:15:46.8509 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:15:46.8683 Info Configuration initialized.
+2025-05-07 15:15:47.0654 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:15:47.0838 Info Shutdown() called. Logger closing...
+2025-05-07 15:15:47.0838 Info Closing old configuration.
+2025-05-07 15:15:47.0838 Info Logger has been closed down.
+2025-05-07 15:16:02.9990 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:16:02.9990 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:16:02.9990 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:16:02.9990 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:16:03.0274 Info Configuration initialized.
+2025-05-07 15:16:03.2125 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:16:03.2284 Info Shutdown() called. Logger closing...
+2025-05-07 15:16:03.2284 Info Closing old configuration.
+2025-05-07 15:16:03.2364 Info Logger has been closed down.
+2025-05-07 15:16:11.0090 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:16:11.0184 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:16:11.0184 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:16:11.0361 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:16:11.0475 Info Configuration initialized.
+2025-05-07 15:16:11.2489 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:16:11.2651 Info Shutdown() called. Logger closing...
+2025-05-07 15:16:11.2651 Info Closing old configuration.
+2025-05-07 15:16:11.2651 Info Logger has been closed down.
+2025-05-07 15:16:28.0112 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:16:28.0112 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:16:28.0112 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:16:28.0356 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:16:28.0454 Info Configuration initialized.
+2025-05-07 15:16:28.2502 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:16:28.2695 Info Shutdown() called. Logger closing...
+2025-05-07 15:16:28.2695 Info Closing old configuration.
+2025-05-07 15:16:28.2695 Info Logger has been closed down.
+2025-05-07 15:32:50.9573 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:32:50.9649 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:32:50.9649 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:32:50.9649 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:32:50.9956 Info Configuration initialized.
+2025-05-07 15:32:51.4187 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:32:51.4462 Info Shutdown() called. Logger closing...
+2025-05-07 15:32:51.4462 Info Closing old configuration.
+2025-05-07 15:32:51.4665 Info Logger has been closed down.
+2025-05-07 15:33:03.8207 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:33:03.8303 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:33:03.8303 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:33:03.8658 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:33:03.8872 Info Configuration initialized.
+2025-05-07 15:33:04.1993 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:33:04.2240 Info Shutdown() called. Logger closing...
+2025-05-07 15:33:04.2240 Info Closing old configuration.
+2025-05-07 15:33:04.2360 Info Logger has been closed down.
+2025-05-07 15:36:47.9217 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:36:47.9290 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:36:47.9290 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:36:47.9493 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:36:47.9607 Info Configuration initialized.
+2025-05-07 15:36:48.2232 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:36:48.2453 Info Shutdown() called. Logger closing...
+2025-05-07 15:36:48.2453 Info Closing old configuration.
+2025-05-07 15:36:48.2558 Info Logger has been closed down.
+2025-05-07 15:36:56.7198 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:36:56.7198 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:36:56.7332 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:36:56.7479 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:36:56.7689 Info Configuration initialized.
+2025-05-07 15:36:57.1914 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:36:57.2216 Info Shutdown() called. Logger closing...
+2025-05-07 15:36:57.2216 Info Closing old configuration.
+2025-05-07 15:36:57.2216 Info Logger has been closed down.
+2025-05-07 15:37:17.5462 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 15:37:17.5462 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 15:37:17.5652 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 15:37:17.5865 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:37:17.5865 Info Configuration initialized.
+2025-05-07 15:37:18.0508 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 15:37:18.0918 Info Shutdown() called. Logger closing...
+2025-05-07 15:37:18.0918 Info Closing old configuration.
+2025-05-07 15:37:18.1147 Info Logger has been closed down.
+2025-05-07 20:24:42.4147 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 20:24:42.4281 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 20:24:42.4281 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 20:24:42.4432 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:24:42.4432 Info Configuration initialized.
+2025-05-07 20:24:42.7811 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:24:42.8090 Info Shutdown() called. Logger closing...
+2025-05-07 20:24:42.8097 Info Closing old configuration.
+2025-05-07 20:24:42.8097 Info Logger has been closed down.
+2025-05-07 20:25:20.0593 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 20:25:20.0593 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 20:25:20.0779 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 20:25:20.0984 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:25:20.1176 Info Configuration initialized.
+2025-05-07 20:25:20.5035 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:25:20.5356 Info Shutdown() called. Logger closing...
+2025-05-07 20:25:20.5356 Info Closing old configuration.
+2025-05-07 20:25:20.5540 Info Logger has been closed down.
+2025-05-07 20:47:46.0420 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 20:47:46.0519 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 20:47:46.0606 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 20:47:46.1017 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:47:46.1134 Info Configuration initialized.
+2025-05-07 20:47:47.4003 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:48:58.0582 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 20:48:58.0738 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 20:48:58.0738 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 20:48:58.1366 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:48:58.1614 Info Configuration initialized.
+2025-05-07 20:48:59.1175 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:57:23.9750 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 20:57:23.9883 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 20:57:23.9883 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 20:57:24.0290 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 20:57:24.0486 Info Configuration initialized.
+2025-05-07 20:57:25.0818 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:34:13.4928 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 22:34:13.5379 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 22:34:13.5426 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 22:34:13.5426 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:34:13.5607 Info Configuration initialized.
+2025-05-07 22:34:13.8043 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:34:13.8307 Info Shutdown() called. Logger closing...
+2025-05-07 22:34:13.8307 Info Closing old configuration.
+2025-05-07 22:34:13.8400 Info Logger has been closed down.
+2025-05-07 22:34:43.4056 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 22:34:43.4056 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 22:34:43.4056 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 22:34:43.4240 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:34:43.4349 Info Configuration initialized.
+2025-05-07 22:34:43.6675 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:34:43.6837 Info Shutdown() called. Logger closing...
+2025-05-07 22:34:43.6837 Info Closing old configuration.
+2025-05-07 22:34:43.6837 Info Logger has been closed down.
+2025-05-07 22:39:56.9869 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 22:39:56.9869 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 22:39:56.9967 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 22:39:56.9967 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:39:57.0135 Info Configuration initialized.
+2025-05-07 22:39:57.2044 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:39:57.2199 Info Shutdown() called. Logger closing...
+2025-05-07 22:39:57.2199 Info Closing old configuration.
+2025-05-07 22:39:57.2199 Info Logger has been closed down.
+2025-05-07 22:40:10.4370 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 22:40:10.4370 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 22:40:10.4370 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 22:40:10.4561 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:40:10.4561 Info Configuration initialized.
+2025-05-07 22:40:10.6664 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 22:40:10.6739 Info Shutdown() called. Logger closing...
+2025-05-07 22:40:10.6835 Info Closing old configuration.
+2025-05-07 22:40:10.6835 Info Logger has been closed down.
+2025-05-07 23:12:26.6164 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 23:12:26.6231 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 23:12:26.6231 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 23:12:26.6513 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:12:26.6619 Info Configuration initialized.
+2025-05-07 23:12:27.4280 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:15:54.6363 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 23:15:54.6442 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 23:15:54.6442 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 23:15:54.6754 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:15:54.6902 Info Configuration initialized.
+2025-05-07 23:15:55.7070 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:18:06.7506 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 23:18:06.7606 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 23:18:06.7673 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 23:18:06.8202 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:18:06.8358 Info Configuration initialized.
+2025-05-07 23:18:07.6099 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:52:21.2501 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 23:52:21.2608 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 23:52:21.2676 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 23:52:21.2965 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:52:21.3142 Info Configuration initialized.
+2025-05-07 23:52:21.9858 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:58:48.1097 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-07 23:58:48.1410 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-07 23:58:48.1492 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-07 23:58:48.1750 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-07 23:58:48.1906 Info Configuration initialized.
+2025-05-07 23:58:48.9202 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 00:39:59.6054 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 00:39:59.6149 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 00:39:59.6221 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 00:39:59.6515 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 00:39:59.6645 Info Configuration initialized.
+2025-05-08 00:40:00.4273 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 00:46:38.1321 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 00:46:38.1443 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 00:46:38.1443 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 00:46:38.1828 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 00:46:38.2011 Info Configuration initialized.
+2025-05-08 00:46:38.9351 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 09:29:37.7395 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 09:29:37.7532 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 09:29:37.7634 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 09:29:37.7985 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 09:29:37.8178 Info Configuration initialized.
+2025-05-08 09:29:38.9729 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 09:40:32.5072 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 09:40:32.5138 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 09:40:32.5138 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 09:40:32.5306 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 09:40:32.5492 Info Configuration initialized.
+2025-05-08 09:40:32.8098 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 09:40:32.8298 Info Shutdown() called. Logger closing...
+2025-05-08 09:40:32.8298 Info Closing old configuration.
+2025-05-08 09:40:32.8417 Info Logger has been closed down.
+2025-05-08 09:40:59.4683 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 09:40:59.4683 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 09:40:59.4854 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 09:40:59.4854 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 09:40:59.5083 Info Configuration initialized.
+2025-05-08 09:40:59.7822 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 09:40:59.8064 Info Shutdown() called. Logger closing...
+2025-05-08 09:40:59.8064 Info Closing old configuration.
+2025-05-08 09:40:59.8180 Info Logger has been closed down.
+2025-05-08 09:47:33.2399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 09:47:33.2535 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 09:47:33.2649 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 09:47:33.3005 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 09:47:33.3198 Info Configuration initialized.
+2025-05-08 09:47:34.6803 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 10:25:16.8933 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 10:25:16.9090 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 10:25:16.9090 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 10:25:16.9521 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 10:25:16.9711 Info Configuration initialized.
+2025-05-08 10:25:18.5958 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 10:49:13.9408 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 10:49:13.9536 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 10:49:13.9536 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 10:49:14.0027 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 10:49:14.0271 Info Configuration initialized.
+2025-05-08 10:49:15.4593 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 10:51:20.5268 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 10:51:20.5428 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 10:51:20.5428 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 10:51:20.6076 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 10:51:20.6291 Info Configuration initialized.
+2025-05-08 10:51:21.7535 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 10:56:05.3957 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 10:56:05.4099 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 10:56:05.4099 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 10:56:05.4727 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 10:56:05.5002 Info Configuration initialized.
+2025-05-08 10:56:06.6928 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:07:32.7189 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 11:07:32.7303 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 11:07:32.7303 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 11:07:32.7768 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:07:32.7933 Info Configuration initialized.
+2025-05-08 11:07:34.1507 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:12:28.5008 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 11:12:28.5153 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 11:12:28.5273 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 11:12:28.5617 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:12:28.5831 Info Configuration initialized.
+2025-05-08 11:12:29.2444 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:16:05.8959 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 11:16:05.9073 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 11:16:05.9073 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 11:16:05.9517 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:16:05.9713 Info Configuration initialized.
+2025-05-08 11:16:06.8233 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:24:22.9269 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 11:24:22.9327 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 11:24:22.9383 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 11:24:22.9624 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:24:22.9778 Info Configuration initialized.
+2025-05-08 11:24:23.8302 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:44:38.2262 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 11:44:38.2347 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 11:44:38.2347 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 11:44:38.2711 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:44:38.2986 Info Configuration initialized.
+2025-05-08 11:44:39.2628 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:47:15.2742 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 11:47:15.2864 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 11:47:15.2956 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 11:47:15.3692 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 11:47:15.3883 Info Configuration initialized.
+2025-05-08 11:47:16.2277 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 12:42:04.6389 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 12:42:04.6653 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 12:42:04.6706 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 12:42:04.6976 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 12:42:04.7085 Info Configuration initialized.
+2025-05-08 12:42:05.6668 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:00:39.5200 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:00:39.5291 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:00:39.5291 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:00:39.5681 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:00:39.5836 Info Configuration initialized.
+2025-05-08 13:00:40.4379 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:07:03.6070 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:07:03.6222 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:07:03.6222 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:07:03.6558 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:07:03.6715 Info Configuration initialized.
+2025-05-08 13:07:04.4071 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:12:36.9402 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:12:36.9484 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:12:36.9530 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:12:36.9739 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:12:36.9850 Info Configuration initialized.
+2025-05-08 13:12:37.6041 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:13:31.0141 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:13:31.0234 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:13:31.0307 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:13:31.0596 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:13:31.0804 Info Configuration initialized.
+2025-05-08 13:13:31.8276 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:16:09.3210 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:16:09.3282 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:16:09.3282 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:16:09.3606 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:16:09.3742 Info Configuration initialized.
+2025-05-08 13:16:10.0542 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:30:27.9864 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:30:27.9934 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:30:28.0005 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:30:28.0306 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:30:28.0510 Info Configuration initialized.
+2025-05-08 13:30:28.9905 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:33:25.8641 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:33:25.8756 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:33:25.8756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:33:25.9714 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:33:25.9903 Info Configuration initialized.
+2025-05-08 13:33:26.9162 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:41:47.8539 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:41:47.8630 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:41:47.8630 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:41:47.8999 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:41:47.9120 Info Configuration initialized.
+2025-05-08 13:41:48.7483 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:43:15.6232 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:43:15.6363 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:43:15.6429 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:43:15.6683 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:43:15.6683 Info Configuration initialized.
+2025-05-08 13:43:16.4362 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:46:07.3130 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 13:46:07.3241 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 13:46:07.3241 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 13:46:07.3634 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 13:46:07.3799 Info Configuration initialized.
+2025-05-08 13:46:08.3202 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 14:07:41.3286 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 14:07:41.3409 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 14:07:41.3409 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 14:07:41.3833 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 14:07:41.4073 Info Configuration initialized.
+2025-05-08 14:07:42.3081 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:04:50.7393 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 15:04:50.7493 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 15:04:50.7493 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 15:04:50.7899 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:04:50.8032 Info Configuration initialized.
+2025-05-08 15:04:52.3787 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:08:21.5871 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 15:08:21.5950 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 15:08:21.5950 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 15:08:21.6327 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:08:21.6510 Info Configuration initialized.
+2025-05-08 15:08:22.9661 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:16:38.3954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 15:16:38.4044 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 15:16:38.4124 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 15:16:38.4334 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:16:38.4548 Info Configuration initialized.
+2025-05-08 15:16:38.7566 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:16:38.7821 Info Shutdown() called. Logger closing...
+2025-05-08 15:16:38.7821 Info Closing old configuration.
+2025-05-08 15:16:38.7925 Info Logger has been closed down.
+2025-05-08 15:16:53.3565 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 15:16:53.3565 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 15:16:53.3690 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 15:16:53.3815 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:16:53.3815 Info Configuration initialized.
+2025-05-08 15:16:53.7119 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:16:53.7391 Info Shutdown() called. Logger closing...
+2025-05-08 15:16:53.7391 Info Closing old configuration.
+2025-05-08 15:16:53.7574 Info Logger has been closed down.
+2025-05-08 15:17:18.1033 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 15:17:18.1033 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 15:17:18.1033 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 15:17:18.1248 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:17:18.1248 Info Configuration initialized.
+2025-05-08 15:17:18.3704 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:17:18.3922 Info Shutdown() called. Logger closing...
+2025-05-08 15:17:18.3922 Info Closing old configuration.
+2025-05-08 15:17:18.4040 Info Logger has been closed down.
+2025-05-08 15:36:33.2848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 15:36:33.2923 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 15:36:33.2923 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 15:36:33.3218 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:36:33.3369 Info Configuration initialized.
+2025-05-08 15:36:33.9823 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:42:42.6290 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 15:42:42.6290 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 15:42:42.6425 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 15:42:42.6660 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:42:42.6819 Info Configuration initialized.
+2025-05-08 15:42:43.3315 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:44:27.4311 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 15:44:27.4433 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 15:44:27.4515 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 15:44:27.4913 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 15:44:27.5087 Info Configuration initialized.
+2025-05-08 15:44:28.1527 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 17:37:23.9636 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 17:37:23.9833 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 17:37:23.9833 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 17:37:24.0283 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 17:37:24.0503 Info Configuration initialized.
+2025-05-08 17:37:25.4729 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 18:27:16.2763 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 18:27:16.2902 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 18:27:16.2978 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 18:27:16.3298 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 18:27:16.3469 Info Configuration initialized.
+2025-05-08 18:27:17.1892 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 18:39:55.4172 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 18:39:55.4290 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 18:39:55.4358 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 18:39:55.4632 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 18:39:55.4632 Info Configuration initialized.
+2025-05-08 18:39:56.1757 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 20:14:23.5241 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 20:14:23.5378 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 20:14:23.5455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 20:14:23.5719 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 20:14:23.5868 Info Configuration initialized.
+2025-05-08 20:14:24.9332 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 20:47:59.3688 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-08 20:47:59.3785 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-08 20:47:59.3868 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-08 20:47:59.4159 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-08 20:47:59.4326 Info Configuration initialized.
+2025-05-08 20:48:00.6580 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 09:34:00.5626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 09:34:00.5760 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 09:34:00.5760 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 09:34:00.6257 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 09:34:00.6447 Info Configuration initialized.
+2025-05-09 09:34:02.0432 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 09:58:20.1217 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 09:58:20.1529 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 09:58:20.1579 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 09:58:20.1878 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 09:58:20.2064 Info Configuration initialized.
+2025-05-09 09:58:21.0783 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 10:10:51.9960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 10:10:52.0045 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 10:10:52.0112 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 10:10:52.0372 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 10:10:52.0502 Info Configuration initialized.
+2025-05-09 10:10:52.7406 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 11:42:50.3876 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 11:42:50.3961 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 11:42:50.4019 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 11:42:50.4337 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 11:42:50.4490 Info Configuration initialized.
+2025-05-09 11:42:51.2111 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 12:53:13.5972 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 12:53:13.6245 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 12:53:13.6245 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 12:53:13.6578 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 12:53:13.6725 Info Configuration initialized.
+2025-05-09 12:53:14.6656 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 12:54:25.3300 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 12:54:25.3416 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 12:54:25.3416 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 12:54:25.3868 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 12:54:25.4273 Info Configuration initialized.
+2025-05-09 12:54:26.3697 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 12:59:32.2089 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 12:59:32.2257 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 12:59:32.2352 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 12:59:32.2639 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 12:59:32.2817 Info Configuration initialized.
+2025-05-09 12:59:33.0855 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:07:26.6234 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 13:07:26.6367 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 13:07:26.6367 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 13:07:26.6804 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:07:26.6988 Info Configuration initialized.
+2025-05-09 13:07:27.5178 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:15:07.0350 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 13:15:07.0442 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 13:15:07.0442 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 13:15:07.0879 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:15:07.1043 Info Configuration initialized.
+2025-05-09 13:15:08.0104 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:18:56.9045 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 13:18:56.9132 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 13:18:56.9211 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 13:18:56.9493 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:18:56.9658 Info Configuration initialized.
+2025-05-09 13:18:57.7391 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:23:01.1097 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 13:23:01.1221 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 13:23:01.1221 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 13:23:01.1642 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:23:01.1816 Info Configuration initialized.
+2025-05-09 13:23:01.9288 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:36:56.6230 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 13:36:56.6320 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 13:36:56.6407 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 13:36:56.6718 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 13:36:56.6894 Info Configuration initialized.
+2025-05-09 13:36:57.9474 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 15:35:20.5993 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 15:35:20.6115 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 15:35:20.6115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 15:35:20.6437 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 15:35:20.6584 Info Configuration initialized.
+2025-05-09 15:35:21.4766 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 15:56:02.2939 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 15:56:02.3013 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 15:56:02.3085 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 15:56:02.3332 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 15:56:02.3490 Info Configuration initialized.
+2025-05-09 15:56:02.9929 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:04:53.1071 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 16:04:53.1176 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 16:04:53.1243 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 16:04:53.1508 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:04:53.1682 Info Configuration initialized.
+2025-05-09 16:04:53.9006 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:11:32.4191 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 16:11:32.4283 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 16:11:32.4348 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 16:11:32.4621 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:11:32.4784 Info Configuration initialized.
+2025-05-09 16:11:33.1859 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:16:37.2073 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 16:16:37.2129 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 16:16:37.2129 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 16:16:37.2129 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:16:37.2337 Info Configuration initialized.
+2025-05-09 16:16:37.4189 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:16:37.4390 Info Shutdown() called. Logger closing...
+2025-05-09 16:16:37.4390 Info Closing old configuration.
+2025-05-09 16:16:37.4475 Info Logger has been closed down.
+2025-05-09 16:18:00.3641 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 16:18:00.3697 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 16:18:00.3697 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 16:18:00.3697 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:18:00.3910 Info Configuration initialized.
+2025-05-09 16:18:00.5819 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 16:18:00.5888 Info Shutdown() called. Logger closing...
+2025-05-09 16:18:00.5888 Info Closing old configuration.
+2025-05-09 16:18:00.6076 Info Logger has been closed down.
+2025-05-09 22:49:01.7554 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 22:49:01.7680 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 22:49:01.7680 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 22:49:01.8104 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 22:49:01.8297 Info Configuration initialized.
+2025-05-09 22:49:03.3344 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:00:00.3868 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 23:00:00.4437 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 23:00:00.4557 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 23:00:00.4955 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:00:00.5213 Info Configuration initialized.
+2025-05-09 23:00:02.4698 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:16:49.0232 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 23:16:49.0357 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 23:16:49.0439 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 23:16:49.0793 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:16:49.1043 Info Configuration initialized.
+2025-05-09 23:16:50.2019 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:18:22.3229 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 23:18:22.3369 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 23:18:22.3485 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 23:18:22.3877 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:18:22.4085 Info Configuration initialized.
+2025-05-09 23:18:23.5471 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:21:26.8087 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 23:21:26.8217 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 23:21:26.8217 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 23:21:26.8657 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:21:26.8843 Info Configuration initialized.
+2025-05-09 23:21:27.9992 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:50:47.3672 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-09 23:50:47.3754 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-09 23:50:47.3754 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-09 23:50:47.4175 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-09 23:50:47.4175 Info Configuration initialized.
+2025-05-09 23:50:48.2100 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 00:11:35.5261 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-10 00:11:35.5341 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-10 00:11:35.5341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-10 00:11:35.5693 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 00:11:35.5848 Info Configuration initialized.
+2025-05-10 00:11:36.5144 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 10:09:29.7242 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-10 10:09:29.7339 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-10 10:09:29.7339 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-10 10:09:29.7728 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 10:09:29.7897 Info Configuration initialized.
+2025-05-10 10:09:30.6556 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 11:55:43.1783 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-10 11:55:43.2045 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-10 11:55:43.2045 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-10 11:55:43.2399 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 11:55:43.2506 Info Configuration initialized.
+2025-05-10 11:55:44.1907 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 12:04:45.1562 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-10 12:04:45.1629 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-10 12:04:45.1629 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-10 12:04:45.1925 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 12:04:45.2071 Info Configuration initialized.
+2025-05-10 12:04:46.0769 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 12:15:12.4342 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-10 12:15:12.4455 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-10 12:15:12.4525 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-10 12:15:12.4766 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 12:15:12.4904 Info Configuration initialized.
+2025-05-10 12:15:13.1761 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 12:59:15.5666 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-10 12:59:15.5772 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-10 12:59:15.5772 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-10 12:59:15.6133 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-10 12:59:15.6277 Info Configuration initialized.
+2025-05-10 12:59:16.3466 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 12:50:25.1948 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 12:50:25.1948 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-12 12:50:25.2065 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 12:50:25.2312 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 12:50:25.2443 Info Configuration initialized.
+2025-05-12 12:50:26.2285 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 13:03:36.3492 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 13:03:36.3606 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-12 13:03:36.3606 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 13:03:36.3948 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 13:03:36.3948 Info Configuration initialized.
+2025-05-12 13:03:37.2138 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 13:06:42.5547 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 13:06:42.5659 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-12 13:06:42.5659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 13:06:42.5958 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 13:06:42.6089 Info Configuration initialized.
+2025-05-12 13:06:43.4303 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 13:07:13.8916 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 13:07:13.8993 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-12 13:07:13.8993 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 13:07:13.9285 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 13:07:13.9398 Info Configuration initialized.
+2025-05-12 13:07:14.5873 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 13:22:39.8887 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-05-12 13:22:39.9115 Info Registered target NLog.Targets.ConsoleTarget(Name=console)
+2025-05-12 13:22:39.9337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-05-12 13:22:40.0700 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
+2025-05-12 13:22:40.0803 Info Configuration initialized.
+2025-05-12 13:22:41.0371 Info Validating config: TargetNames=logfile, console, ConfigItems=25, FilePath=C:\Users\conne\Desktop\Compunnel\MegaProject\BackendStore\bin\Debug\net8.0\nlog.config
