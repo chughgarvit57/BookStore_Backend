@@ -6,7 +6,7 @@ namespace RepositoryLayer.Interface
     public interface IUserRL
     {
         Task<ResponseDTO<UserEntity>> RegisterAsync(RegUserDTO request);
-        Task<ResponseDTO<LoginResponseDTO>> LoginAsync(string email, string password);
+        Task<ResponseDTO<LoginResponseDTO>> LoginAsync(LoginRequestDTO request);
         Task<ResponseDTO<string>> ResetPasswordAsync(ResetPasswordDTO request, string email);
         Task<ResponseDTO<string>> ForgotPasswordAsync(string email);
         Task<ResponseDTO<string>> DeleteUserAsync(string email);

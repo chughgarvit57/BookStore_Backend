@@ -115,14 +115,14 @@ namespace RepositoryLayer.Service
             }
         }
 
-        public async Task<ResponseDTO<LoginResponseDTO>> LoginAsync(string email, string password)
+        public async Task<ResponseDTO<LoginResponseDTO>> LoginAsync(LoginRequestDTO request)
         {
-            _logger.LogInformation("Login attempt for email: {Email}", email);
+            _logger.LogInformation("Login attempt for email: {Email}", request.Email);
             using var transaction = await _context.Database.BeginTransactionAsync();
             try
             {
-                var cacheKey = GetUserCacheKey(email);
-                _logger.LogDebug("Checking cache for user with email: {Email}", email);
+                var cacheKey = GetUserCacheKey(request.Email);
+                _logger.LogDebug("Checking cache for user with email: {Email}", request.Email);
                 var cachedUser = await _redisDb.StringGetAsync(cacheKey);
 
                 if (cachedUser.HasValue)
@@ -130,10 +130,10 @@ namespace RepositoryLayer.Service
                     try
                     {
                         var user = JsonSerializer.Deserialize<UserEntity>(cachedUser);
-                        if (_passwordHashService.VerifyPassword(password, user.Password))
+                        if (_passwordHashService.VerifyPassword(request.Password, user.Password))
                         {
                             var token = _service.GenerateToken(user);
-                            _logger.LogInformation("User authenticated from cache for email: {Email}", email);
+                            _logger.LogInformation("User authenticated from cache for email: {Email}", request.Email);
 
                             return new ResponseDTO<LoginResponseDTO>
                             {
@@ -146,20 +146,20 @@ namespace RepositoryLayer.Service
                                 }
                             };
                         }
-                        _logger.LogWarning("Invalid password attempt for cached user with email: {Email}", email);
+                        _logger.LogWarning("Invalid password attempt for cached user with email: {Email}", request.Email);
                     }
                     catch (JsonException jsonEx)
                     {
-                        _logger.LogWarning(jsonEx, "Error deserializing cached user for email: {Email}. Clearing cache.", email);
+                        _logger.LogWarning(jsonEx, "Error deserializing cached user for email: {Email}. Clearing cache.", request.Email);
                         await _redisDb.KeyDeleteAsync(cacheKey);
                     }
                 }
 
-                _logger.LogDebug("No cache found, querying database for user with email: {Email}", email);
-                var dbUser = await _context.Users.FirstOrDefaultAsync(x => x.Email == email);
+                _logger.LogDebug("No cache found, querying database for user with email: {Email}", request.Email);
+                var dbUser = await _context.Users.FirstOrDefaultAsync(x => x.Email == request.Email);
                 if (dbUser == null)
                 {
-                    _logger.LogWarning("Login failed: user not found for email: {Email}", email);
+                    _logger.LogWarning("Login failed: user not found for email: {Email}", request.Email);
                     return new ResponseDTO<LoginResponseDTO>
                     {
                         IsSuccess = false,
@@ -167,9 +167,9 @@ namespace RepositoryLayer.Service
                     };
                 }
 
-                if (!_passwordHashService.VerifyPassword(password, dbUser.Password))
+                if (!_passwordHashService.VerifyPassword(request.Password, dbUser.Password))
                 {
-                    _logger.LogWarning("Invalid password attempt for email: {Email}", email);
+                    _logger.LogWarning("Invalid password attempt for email: {Email}", request.Email);
                     return new ResponseDTO<LoginResponseDTO>
                     {
                         IsSuccess = false,
@@ -177,7 +177,7 @@ namespace RepositoryLayer.Service
                     };
                 }
 
-                _logger.LogDebug("Caching user with email: {Email} after successful login", email);
+                _logger.LogDebug("Caching user with email: {Email} after successful login", request.Email);
                 await _redisDb.StringSetAsync(cacheKey, JsonSerializer.Serialize(dbUser), TimeSpan.FromMinutes(30));
 
                 var loginResponse = new LoginResponseDTO
@@ -187,7 +187,7 @@ namespace RepositoryLayer.Service
                 };
 
                 await transaction.CommitAsync();
-                _logger.LogInformation("User successfully logged in with email: {Email}", email);
+                _logger.LogInformation("User successfully logged in with email: {Email}", request.Email);
 
                 return new ResponseDTO<LoginResponseDTO>
                 {
@@ -198,7 +198,7 @@ namespace RepositoryLayer.Service
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error occurred during login for email: {Email}", email);
+                _logger.LogError(ex, "Error occurred during login for email: {Email}", request.Email);
                 await transaction.RollbackAsync();
                 return new ResponseDTO<LoginResponseDTO>
                 {

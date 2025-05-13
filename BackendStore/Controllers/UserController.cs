@@ -86,27 +86,27 @@ namespace BackendStore.Controllers
         [HttpPost("Login")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> Login(string email, string password)
+        public async Task<IActionResult> Login(LoginRequestDTO request)
         {
-            _logger.LogInformation("Attempting to log in user with email: {Email}", email);
+            _logger.LogInformation("Attempting to log in user with email: {Email}", request.Email);
             try
             {
-                _logger.LogDebug("Logging in with email: {Email}", email);
-                var result = await _userBL.LoginAsync(email, password);
+                _logger.LogDebug("Logging in with email: {Email}", request.Email);
+                var result = await _userBL.LoginAsync(request);
                 if (result.IsSuccess)
                 {
-                    _logger.LogInformation("User logged in successfully with email: {Email}", email);
+                    _logger.LogInformation("User logged in successfully with email: {Email}", request.Email);
                     return Ok(result);
                 }
                 else
                 {
-                    _logger.LogWarning("Failed to log in user with email: {Email}. Message: {Message}", email, result.Message);
+                    _logger.LogWarning("Failed to log in user with email: {Email}. Message: {Message}", request.Email, result.Message);
                     return BadRequest(result);
                 }
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error logging in user with email: {Email}", email);
+                _logger.LogError(ex, "Error logging in user with email: {Email}", request.Email);
                 return BadRequest(new ResponseDTO<UserEntity>
                 {
                     IsSuccess = false,

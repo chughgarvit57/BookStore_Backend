@@ -35,16 +35,16 @@ namespace BusinessLayer.Service
             }
         }
 
-        public async Task<ResponseDTO<LoginResponseDTO>> LoginAsync(string email, string password)
+        public async Task<ResponseDTO<LoginResponseDTO>> LoginAsync(LoginRequestDTO request)
         {
             try
             {
-                _logger.LogInformation("User login attempt for email: {Email}", email);
-                return await _userRL.LoginAsync(email, password);
+                _logger.LogInformation("User login attempt for email: {Email}", request.Email);
+                return await _userRL.LoginAsync(request);
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Login failed for email: {Email}", email);
+                _logger.LogError(ex, "Login failed for email: {Email}", request.Email);
                 return new ResponseDTO<LoginResponseDTO>
                 {
                     IsSuccess = false,
