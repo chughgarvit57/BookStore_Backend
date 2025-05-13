@@ -24,8 +24,7 @@ namespace RepositoryLayer.DTO
         public string Locality { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Phone number is required.")]
-        [Phone(ErrorMessage = "Invalid phone number format.")]
-        [RegularExpression(@"^\d{10}$", ErrorMessage = "Phone number must be exactly 10 digits.")]
-        public string PhoneNumber { get; set; } = string.Empty;
+        [Range(1000000000, 9999999999, ErrorMessage = "Phone number must be exactly 10 digits.")]
+        public long PhoneNumber { get; set; }
     }
 }
