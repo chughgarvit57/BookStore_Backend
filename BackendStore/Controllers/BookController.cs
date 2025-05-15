@@ -100,7 +100,7 @@ namespace BackendStore.Controllers
                 else
                 {
                     _logger.LogWarning("Failed to retrieve book with BookId: {BookId}. Message: {Message}", bookId, result.Message);
-                    return BadRequest(result);
+                    return NotFound(result);
                 }
             }
             catch (Exception ex)
