@@ -113,14 +113,14 @@ namespace RepositoryLayer.Service
             }
         }
 
-        public async Task<ResponseDTO<AddressEntity>> DeleteAddressAsync(int addressId)
+        public async Task<ResponseDTO<AddressEntity>> DeleteAddressAsync(int addressId, int userId)
         {
             _logger.LogInformation("Attempting to delete address with AddressId: {AddressId}", addressId);
             using var transaction = await _context.Database.BeginTransactionAsync();
             try
             {
                 _logger.LogDebug("Searching for address with AddressId: {AddressId}", addressId);
-                var address = await _context.Addresses.FindAsync(addressId);
+                var address = await _context.Addresses.FirstOrDefaultAsync(x => x.AddressId == addressId && x.UserId == userId);
                 if (address == null)
                 {
                     _logger.LogWarning("Address not found for AddressId: {AddressId}", addressId);

@@ -87,7 +87,8 @@ namespace BackendStore.Controllers
             _logger.LogInformation("Attempting to delete address with AddressId: {AddressId}", addressId);
             try
             {
-                var result = await _addressBL.DeleteAddressAsync(addressId);
+                int userId = Convert.ToInt32(User.Claims.FirstOrDefault(x => x.Type == "Id")?.Value);
+                var result = await _addressBL.DeleteAddressAsync(addressId, userId);
                 if (result.IsSuccess)
                 {
                     _logger.LogInformation("Address deleted successfully with AddressId: {AddressId}", addressId);

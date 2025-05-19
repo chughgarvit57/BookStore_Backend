@@ -35,12 +35,12 @@ namespace BusinessLayer.Service
             }
         }
 
-        public async Task<ResponseDTO<AddressEntity>> DeleteAddressAsync(int addressId)
+        public async Task<ResponseDTO<AddressEntity>> DeleteAddressAsync(int addressId, int userId)
         {
             try
             {
                 _logger.LogInformation("Deleting address with addressId: {AddressId}", addressId);
-                return await _addressRL.DeleteAddressAsync(addressId);
+                return await _addressRL.DeleteAddressAsync(addressId,userId);
             }
             catch (Exception ex)
             {

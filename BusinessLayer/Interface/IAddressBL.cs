@@ -6,7 +6,7 @@ namespace BusinessLayer.Interface
     public interface IAddressBL
     {
         Task<ResponseDTO<AddressEntity>> AddAddressAsync(AddAddressRequestDTO request, int userId);
-        Task<ResponseDTO<AddressEntity>> DeleteAddressAsync(int addressId);
+        Task<ResponseDTO<AddressEntity>> DeleteAddressAsync(int addressId, int userId);
         Task<ResponseDTO<List<AddressEntity>>> GetAllAddressesAsync(int userId);
         Task<ResponseDTO<AddressEntity>> UpdateAddressAsync(UpdateAddressRequestDTO request, int userId);
     }
