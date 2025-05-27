@@ -41,8 +41,15 @@ publish/
 *.tmp
 *.bak
 
-## Ignore migrations
+## Ignore EF Core Migrations (if needed)
 Migrations/
 
-## Others
+## Ignore environment files
 .env
+
+## Ignore SonarQube analysis files
+.sonarqube/
+TestResults/
+Coverage/
+coverage*.xml
+*.codecoverage
