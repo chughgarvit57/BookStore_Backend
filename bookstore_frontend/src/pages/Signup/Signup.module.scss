@@ -1,0 +1,202 @@
+.authWrapper {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: gainsboro;
+}
+
+.authCardsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 800px;
+  max-width: 1100px;
+  height: auto;
+  position: relative;
+}
+
+.leftcard {
+  flex-basis: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0px 5px 15px #00000029;
+  flex-direction: column;
+  border-radius: 8px 0 0 8px;
+  padding: 2rem;
+}
+
+.leftcard img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.leftcard .logoText {
+  text-align: center;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.rightcard {
+  flex-basis: 45%;
+  background-color: white;
+  box-shadow: 0px 5px 15px #00000029;
+  border-radius: 8px;
+  padding: 0;
+  min-height: 460px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.rightcard .formContainer {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.rightcard .formContainer .navLinks {
+  display: flex;
+  justify-content: space-around;
+  text-transform: uppercase;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.formBox {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  flex-grow: 1;
+}
+
+p {
+  font-weight: bold;
+  color: #555;
+}
+
+.active {
+  color: #b71c1c;
+  border-bottom: 2px solid #b71c1c;
+}
+
+.forgotPassword {
+  text-align: right;
+  font-size: 0.875rem;
+  color: #999;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+
+.dividerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
+
+  span {
+    color: #888;
+    font-weight: 500;
+  }
+
+  .divider {
+    flex-grow: 1;
+    height: 1px;
+    background-color: #ccc;
+  }
+}
+
+.socialButtons {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+
+  button {
+    flex: 1;
+  }
+}
+
+@media (max-width: 991px) {
+  .authWrapper {
+    align-items: flex-start;
+    padding: 1rem;
+  }
+  .authCardsContainer {
+    flex-direction: column;
+    min-width: 100%;
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    gap: 1rem;
+    justify-content: center;
+  }
+  .leftcard {
+    flex-basis: auto;
+    width: 60%;
+    border-radius: 8px 8px 0 0;
+    padding: 1.5rem;
+  }
+  .leftcard img {
+    width: 140px;
+    height: 140px;
+  }
+  .rightcard {
+    flex-basis: auto;
+    width: 70%;
+  }
+  .rightcard .formContainer {
+    padding: 1.5rem;
+  }
+  .rightcard .formContainer .navLinks {
+    font-size: 16px;
+  }
+
+  .formBox {
+    margin-top: 1rem;
+    gap: 1rem;
+  }
+
+  .forgotPassword {
+    font-size: 0.75rem;
+  }
+
+  .dividerContainer {
+    margin: 0.5rem 0;
+  }
+
+  .socialButtons {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+
+@media (max-width: 576px) {
+  .leftcard img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .leftcard .logoText {
+    font-size: 0.8rem;
+  }
+
+  .rightcard .formContainer {
+    padding: 1rem;
+  }
+
+  .rightcard .formContainer .navLinks {
+    font-size: 14px;
+  }
+
+  .formBox {
+    gap: 0.75rem;
+  }
+}
