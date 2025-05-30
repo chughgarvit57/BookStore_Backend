@@ -17,12 +17,12 @@ namespace BusinessLayer.Service
             _logger = logger;
         }
 
-        public async Task<ResponseDTO<BookEntity>> AddBookAsync(AddBookRequestDTO request, int userId)
+        public async Task<ResponseDTO<BookEntity>> AddBookAsync(AddBookRequestDTO request, int userId, string imageFileName)
         {
             try
             {
                 _logger.LogInformation("Adding new book for userId: {UserId}", userId);
-                return await _bookRL.AddBookAsync(request, userId);
+                return await _bookRL.AddBookAsync(request, userId, imageFileName);
             }
             catch (Exception ex)
             {

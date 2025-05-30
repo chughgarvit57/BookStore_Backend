@@ -43,14 +43,44 @@ namespace BackendStore.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [Authorize]
-        public async Task<IActionResult> AddBook(AddBookRequestDTO request)
+        public async Task<IActionResult> AddBook([FromForm] AddBookRequestDTO request)
         {
             _logger.LogInformation("Attempting to add book for UserId: {UserId}", User.Claims.FirstOrDefault(x => x.Type == "Id")?.Value);
             try
             {
                 int userId = Convert.ToInt32(User.Claims.FirstOrDefault(x => x.Type == "Id")?.Value);
                 _logger.LogDebug("Adding book with details: {Request}", JsonSerializer.Serialize(request));
-                var result = await _bookBL.AddBookAsync(request, userId);
+                var allowedExtensions = new[] { ".jpg", ".jpeg", ".png", ".gif" };
+                var fileExtension = Path.GetExtension(request.BookImage.FileName).ToLowerInvariant();
+                if(!allowedExtensions.Contains(fileExtension)) {
+                    _logger.LogWarning("Invalid file extension {FileExtension} for book image upload.", fileExtension);
+                    return BadRequest(new ResponseDTO<string>
+                    {
+                        IsSuccess = false,
+                        Message = "Invalid file type. Allowed types are: " + string.Join(", ", allowedExtensions)
+                    });
+                }
+                if(request.BookImage.Length > 5 * 1024 * 1024) // 5 MB limit
+                {
+                    _logger.LogWarning("Book image size exceeds the limit of 5 MB.");
+                    return BadRequest(new ResponseDTO<string>
+                    {
+                        IsSuccess = false,
+                        Message = "File size exceeds the limit of 5 MB."
+                    });
+                }
+                var fileName = $"{Guid.NewGuid()}{fileExtension}";
+                var imagePath = Path.Combine(Directory.GetCurrentDirectory(), "bookstore/images");
+                if (!Directory.Exists(imagePath))
+                {
+                    Directory.CreateDirectory(imagePath);
+                }
+                var filePath = Path.Combine(imagePath, fileName);
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await request.BookImage.CopyToAsync(stream);
+                }
+                var result = await _bookBL.AddBookAsync(request, userId, fileName);
                 if (result.IsSuccess)
                 {
                     _logger.LogInformation("Book added successfully for UserId: {UserId}", userId);

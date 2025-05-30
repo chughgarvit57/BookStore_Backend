@@ -28,7 +28,7 @@ namespace RepositoryLayer.Service
         private string GetBookCacheKey(int bookId) => $"Book_{bookId}";
         private string GetAllBooksCacheKey() => "all_books";
 
-        public async Task<ResponseDTO<BookEntity>> AddBookAsync(AddBookRequestDTO request, int userId)
+        public async Task<ResponseDTO<BookEntity>> AddBookAsync(AddBookRequestDTO request, int userId, string imageFileName)
         {
             _logger.LogInformation("Attempting to add book titled '{BookName}' for UserId: {UserId}", request.BookName, userId);
             using var transaction = await _userContext.Database.BeginTransactionAsync();
@@ -46,6 +46,18 @@ namespace RepositoryLayer.Service
                     };
                 }
 
+                var baseUrl = "http://localhost:5057";
+                var imageUrl = $"{baseUrl}/bookstore/images/{imageFileName}";
+                if (string.IsNullOrEmpty(imageFileName))
+                {
+                    _logger.LogWarning("Image file name is empty for book titled '{BookName}'", request.BookName);
+                    return new ResponseDTO<BookEntity>
+                    {
+                        IsSuccess = false,
+                        Message = "Image file is required"
+                    };
+                }
+
                 var newBook = new BookEntity
                 {
                     BookName = request.BookName,
@@ -54,7 +66,7 @@ namespace RepositoryLayer.Service
                     AuthorId = userId,
                     Price = request.Price,
                     Quantity = request.Quantity,
-                    BookImage = "DummyImage"
+                    BookImage = imageUrl
                 };
 
                 _logger.LogDebug("Adding new book to database for UserId: {UserId}", userId);
