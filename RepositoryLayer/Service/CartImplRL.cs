@@ -146,7 +146,9 @@ namespace RepositoryLayer.Service
                         BookName = c.Book.BookName,
                         AuthorName = c.Book.AuthorName,
                         Description = c.Book.Description,
-                        Quantity = c.Quantity
+                        Quantity = c.Quantity,
+                        Image = c.Book.BookImage,
+                        Price = c.Book.Price
                     })
                     .ToListAsync();
 
