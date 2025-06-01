@@ -8,5 +8,7 @@
         public int Quantity { get; set; }
         public string Image { get; set; } = string.Empty;
         public float Price { get; set; }
+        public int BookId { get; set; }
+        public bool IsUncarted { get; set; }
     }
 }

@@ -148,7 +148,10 @@ namespace RepositoryLayer.Service
                         Description = c.Book.Description,
                         Quantity = c.Quantity,
                         Image = c.Book.BookImage,
-                        Price = c.Book.Price
+                        Price = c.Book.Price,
+                        BookId = c.Book.BookId,
+                        IsUncarted = c.IsUncarted
+                        
                     })
                     .ToListAsync();
 
