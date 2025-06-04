@@ -55,6 +55,7 @@ namespace RepositoryLayer.Service
                     State = request.State,
                     Locality = request.Locality,
                     PhoneNumber = request.PhoneNumber,
+                    FirstName = request.FirstName
                 };
 
                 _logger.LogDebug("Adding new address to database for UserId: {UserId}", userId);

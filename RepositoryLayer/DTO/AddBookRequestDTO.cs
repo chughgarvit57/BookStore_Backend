@@ -23,7 +23,6 @@ namespace RepositoryLayer.DTO
         [Required(ErrorMessage = "Price is required.")]
         [Range(0.01, float.MaxValue, ErrorMessage = "Price must be greater than 0.")]
         public float Price { get; set; }
-        [Required(ErrorMessage = "Image file is required.")]
         public IFormFile? BookImage { get; set; }
     }
 }

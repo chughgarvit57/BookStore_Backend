@@ -97,6 +97,7 @@ namespace RepositoryLayer.Service
                 if (cartItem != null)
                 {
                     cartItem.IsOrdered = true;
+                    cartItem.IsUncarted = true;
                     _context.Cart.Update(cartItem);
                     _logger.LogDebug("Marked cart item as ordered for UserId: {UserId}, BookId: {BookId}", userId, request.BookId);
                 }

@@ -37,11 +37,12 @@ namespace BookStore.Tests
                 Quantity = 5,
             };
             var userId = 1;
+            var imageFIleName = "test_image.jpg";
             var expectedResponse = new ResponseDTO<BookEntity>
             {
                 IsSuccess = true,
             };
-            _mockBookBL.Setup(x => x.AddBookAsync(request, userId)).ReturnsAsync(expectedResponse);
+            _mockBookBL.Setup(x => x.AddBookAsync(request, userId, imageFIleName)).ReturnsAsync(expectedResponse);
             var book = new ClaimsPrincipal(new ClaimsIdentity(new Claim[]
             {
                 new Claim("Id", userId.ToString())
@@ -110,12 +111,13 @@ namespace BookStore.Tests
                 Quantity = 0
             };
             var userId = 1;
+            var imageFIleName = string.Empty;
             var expectedResponse = new ResponseDTO<BookEntity>
             {
                 IsSuccess = false,
                 Message = "Invalid book data"
             };
-            _mockBookBL.Setup(x => x.AddBookAsync(request, userId)).ReturnsAsync(expectedResponse);
+            _mockBookBL.Setup(x => x.AddBookAsync(request, userId, imageFIleName)).ReturnsAsync(expectedResponse);
             var book = new ClaimsPrincipal(new ClaimsIdentity(new Claim[]
             {
                 new Claim("Id", userId.ToString())

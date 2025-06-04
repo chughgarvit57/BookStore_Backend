@@ -5,6 +5,10 @@ namespace RepositoryLayer.DTO
 {
     public class AddAddressRequestDTO
     {
+        [Required(ErrorMessage = "First Name is required.")]
+        [StringLength(100, ErrorMessage = "First Name cannot exceed 100 characters.")]
+        public string FirstName { get; set; } = string.Empty;
+
         [Required(ErrorMessage = "Address is required.")]
         [StringLength(200, ErrorMessage = "Address cannot exceed 200 characters.")]
         public string Address { get; set; } = string.Empty;
