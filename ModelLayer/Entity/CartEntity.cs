@@ -15,6 +15,7 @@ namespace ModelLayer.Entity
         public int BookId { get; set; }
         public bool IsOrdered { get; set; } = false;
         public bool IsUncarted { get; set; } = false;
+        public DateTime UpdatedAt { get; set; } = DateTime.Now;
         [JsonIgnore]
         public UserEntity? User { get; set; }
         [JsonIgnore]

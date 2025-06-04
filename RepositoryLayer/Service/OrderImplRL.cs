@@ -187,7 +187,10 @@ namespace RepositoryLayer.Service
                         BookId = group.Key,
                         BookName = group.First().Book!.BookName,
                         Author = group.First().Book!.AuthorName,
-                        OrderedQuantity = group.Sum(c => c.Quantity)
+                        OrderedQuantity = group.Sum(c => c.Quantity),
+                        BookImage = group.First().Book!.BookImage,
+                        Price = group.First().Book!.Price,
+                        OrderedDate = group.First().Book!.BookName.Contains("Ordered") ? DateTime.UtcNow : group.First().UpdatedAt
                     })
                     .ToList();
 
