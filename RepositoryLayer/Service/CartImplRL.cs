@@ -26,7 +26,6 @@ namespace RepositoryLayer.Service
         }
 
         private string GetUserCartCacheKey(int userId) => $"cart:{userId}";
-        private string GetCartUserCacheKey(int cartId) => $"cartuser:{cartId}";
 
         public async Task<ResponseDTO<CartEntity>> AddInCartAsync(AddCartRequestDTO request, int userId)
         {
@@ -34,23 +33,27 @@ namespace RepositoryLayer.Service
             using var transaction = await _context.Database.BeginTransactionAsync();
             try
             {
+                _logger.LogDebug("Checking book availability for BookId: {BookId}", request.BookId);
+                var book = await _context.Books.FirstOrDefaultAsync(b => b.BookId == request.BookId);
+                if (book == null || book.Quantity < request.Quantity)
+                {
+                    _logger.LogWarning("Book not found or insufficient quantity for BookId: {BookId}", request.BookId);
+                    return new ResponseDTO<CartEntity>
+                    {
+                        IsSuccess = false,
+                        Message = "Book not available or insufficient quantity"
+                    };
+                }
+
                 _logger.LogDebug("Checking for existing cart item with UserId: {UserId}, BookId: {BookId}", userId, request.BookId);
                 var cartItem = await _context.Cart.FirstOrDefaultAsync(c => c.UserId == userId && c.BookId == request.BookId);
 
                 if (cartItem != null)
                 {
-                    if (cartItem.IsUncarted)
-                    {
-                        _logger.LogDebug("Reactivating uncarted item for UserId: {UserId}, BookId: {BookId}", userId, request.BookId);
-                        cartItem.Quantity = request.Quantity;
-                        cartItem.IsUncarted = false;
-                    }
-                    else
-                    {
-                        _logger.LogDebug("Increasing quantity for existing cart item for UserId: {UserId}, BookId: {BookId}", userId, request.BookId);
-                        cartItem.Quantity += request.Quantity;
-                    }
-
+                    _logger.LogDebug("Resetting existing cart item for UserId: {UserId}, BookId: {BookId}", userId, request.BookId);
+                    cartItem.Quantity = request.Quantity;
+                    cartItem.IsUncarted = false;
+                    cartItem.IsOrdered = false;
                     _context.Cart.Update(cartItem);
                     _logger.LogDebug("Updated existing cart item for UserId: {UserId}, BookId: {BookId}", userId, request.BookId);
                 }
@@ -70,7 +73,9 @@ namespace RepositoryLayer.Service
                     {
                         UserId = userId,
                         BookId = request.BookId,
-                        Quantity = request.Quantity
+                        Quantity = request.Quantity,
+                        IsUncarted = false,
+                        IsOrdered = false
                     };
                     await _context.Cart.AddAsync(cartItem);
                     _logger.LogDebug("Added new cart item for UserId: {UserId}, BookId: {BookId}", userId, request.BookId);
@@ -78,10 +83,8 @@ namespace RepositoryLayer.Service
 
                 await _context.SaveChangesAsync();
 
-                _logger.LogDebug("Caching cart item with CartId: {CartId}", cartItem.CartId);
-                var serializedCartItem = JsonSerializer.Serialize(cartItem);
+                _logger.LogDebug("Clearing user cart cache for UserId: {UserId}", userId);
                 await _redisDb.KeyDeleteAsync(GetUserCartCacheKey(userId));
-                await _redisDb.StringSetAsync(GetCartUserCacheKey(cartItem.CartId), serializedCartItem, TimeSpan.FromMinutes(30));
 
                 await transaction.CommitAsync();
 
@@ -151,7 +154,6 @@ namespace RepositoryLayer.Service
                         Price = c.Book.Price,
                         BookId = c.Book.BookId,
                         IsUncarted = c.IsUncarted
-                        
                     })
                     .ToListAsync();
 
@@ -191,7 +193,7 @@ namespace RepositoryLayer.Service
                 return new ResponseDTO<List<CartResponseDTO>>
                 {
                     IsSuccess = false,
-                    Message = "Failed to retrieve user cart" 
+                    Message = "Failed to retrieve user cart"
                 };
             }
         }
@@ -202,6 +204,18 @@ namespace RepositoryLayer.Service
             using var transaction = await _context.Database.BeginTransactionAsync();
             try
             {
+                _logger.LogDebug("Checking book availability for BookId: {BookId}", request.BookId);
+                var book = await _context.Books.FirstOrDefaultAsync(b => b.BookId == request.BookId);
+                if (book == null || book.Quantity < request.Quantity)
+                {
+                    _logger.LogWarning("Book not found or insufficient quantity for BookId: {BookId}", request.BookId);
+                    return new ResponseDTO<CartEntity>
+                    {
+                        IsSuccess = false,
+                        Message = "Book not available or insufficient quantity"
+                    };
+                }
+
                 _logger.LogDebug("Searching for cart item with UserId: {UserId}, BookId: {BookId}", userId, request.BookId);
                 var cartItem = await _context.Cart.FirstOrDefaultAsync(c => c.UserId == userId && c.BookId == request.BookId);
                 if (cartItem == null)
@@ -215,14 +229,14 @@ namespace RepositoryLayer.Service
                 }
 
                 cartItem.Quantity = request.Quantity;
+                cartItem.IsUncarted = false;
+                cartItem.IsOrdered = false;
                 _context.Cart.Update(cartItem);
                 await _context.SaveChangesAsync();
                 _logger.LogDebug("Updated cart item quantity to {Quantity} for UserId: {UserId}, BookId: {BookId}", request.Quantity, userId, request.BookId);
 
-                _logger.LogDebug("Caching updated cart item with CartId: {CartId}", cartItem.CartId);
-                var serializedCartItem = JsonSerializer.Serialize(cartItem);
+                _logger.LogDebug("Clearing user cart cache for UserId: {UserId}", userId);
                 await _redisDb.KeyDeleteAsync(GetUserCartCacheKey(userId));
-                await _redisDb.StringSetAsync(GetCartUserCacheKey(cartItem.CartId), serializedCartItem, TimeSpan.FromMinutes(30));
 
                 await transaction.CommitAsync();
 
@@ -264,15 +278,12 @@ namespace RepositoryLayer.Service
                     };
                 }
 
-                cartItem.IsUncarted = true;
-                _context.Cart.Update(cartItem);
+                _context.Cart.Remove(cartItem);
                 await _context.SaveChangesAsync();
-                _logger.LogDebug("Marked cart item as uncarted for UserId: {UserId}, BookId: {BookId}", userId, bookId);
+                _logger.LogDebug("Removed cart item for UserId: {UserId}, BookId: {BookId}", userId, bookId);
 
-                _logger.LogDebug("Caching updated cart item with CartId: {CartId}", cartItem.CartId);
-                var serializedCartItem = JsonSerializer.Serialize(cartItem);
+                _logger.LogDebug("Clearing user cart cache for UserId: {UserId}", userId);
                 await _redisDb.KeyDeleteAsync(GetUserCartCacheKey(userId));
-                await _redisDb.StringSetAsync(GetCartUserCacheKey(cartItem.CartId), serializedCartItem, TimeSpan.FromMinutes(30));
 
                 await transaction.CommitAsync();
 
@@ -313,13 +324,9 @@ namespace RepositoryLayer.Service
                     };
                 }
 
-                _logger.LogDebug("Marking {Count} cart items as uncarted for UserId: {UserId}", cartItems.Count, userId);
-                foreach (var item in cartItems)
-                {
-                    item.IsUncarted = true;
-                    _context.Cart.Update(item);
-                }
+                _context.Cart.RemoveRange(cartItems);
                 await _context.SaveChangesAsync();
+                _logger.LogDebug("Removed {Count} cart items for UserId: {UserId}", cartItems.Count, userId);
 
                 _logger.LogDebug("Clearing user cart cache for UserId: {UserId}", userId);
                 await _redisDb.KeyDeleteAsync(GetUserCartCacheKey(userId));

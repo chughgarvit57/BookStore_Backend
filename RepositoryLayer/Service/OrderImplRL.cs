@@ -163,47 +163,43 @@ namespace RepositoryLayer.Service
                     }
                 }
 
-                _logger.LogDebug("No cache found, querying database for ordered cart items for UserId: {UserId}", userId);
-                var orderedCartItems = await _context.Cart
-                    .Include(c => c.Book)
-                    .Where(c => c.UserId == userId && c.IsOrdered)
+                _logger.LogDebug("No cache found, querying database for orders for UserId: {UserId}", userId);
+                var orders = await _context.Orders
+                    .Include(o => o.Book)
+                    .Where(o => o.UserId == userId)
                     .ToListAsync();
 
-                if (orderedCartItems.Count == 0)
+                if (orders.Count == 0)
                 {
-                    _logger.LogWarning("No ordered books found for UserId: {UserId}", userId);
+                    _logger.LogWarning("No orders found for UserId: {UserId}", userId);
                     return new ResponseDTO<List<OrderedBookDTO>>
                     {
                         IsSuccess = false,
-                        Message = "No Ordered Books Found!",
+                        Message = "No Orders Found!",
                     };
                 }
 
-                _logger.LogDebug("Grouping {Count} ordered cart items by BookId for UserId: {UserId}", orderedCartItems.Count, userId);
-                var groupedBooks = orderedCartItems
-                    .GroupBy(c => c.BookId)
-                    .Select(group => new OrderedBookDTO
-                    {
-                        BookId = group.Key,
-                        BookName = group.First().Book!.BookName,
-                        Author = group.First().Book!.AuthorName,
-                        OrderedQuantity = group.Sum(c => c.Quantity),
-                        BookImage = group.First().Book!.BookImage,
-                        Price = group.First().Book!.Price,
-                        OrderedDate = group.First().Book!.BookName.Contains("Ordered") ? DateTime.UtcNow : group.First().UpdatedAt
-                    })
-                    .ToList();
+                _logger.LogDebug("Mapping {Count} orders for UserId: {UserId}", orders.Count, userId);
+                var orderedBooks = orders.Select(o => new OrderedBookDTO
+                {
+                    BookId = o.BookId,
+                    BookName = o.Book!.BookName,
+                    Author = o.Book!.AuthorName,
+                    BookImage = o.Book!.BookImage,
+                    Price = o.Book!.Price,
+                    OrderedDate = o.OrderDate
+                }).ToList();
 
-                _logger.LogDebug("Caching {Count} ordered books for UserId: {UserId}", groupedBooks.Count, userId);
-                var serializedData = JsonSerializer.Serialize(groupedBooks);
+                _logger.LogDebug("Caching {Count} orders for UserId: {UserId}", orderedBooks.Count, userId);
+                var serializedData = JsonSerializer.Serialize(orderedBooks);
                 await _redisDb.StringSetAsync(cacheKey, serializedData, TimeSpan.FromMinutes(30));
 
-                _logger.LogInformation("Retrieved {Count} ordered books from database for UserId: {UserId}", groupedBooks.Count, userId);
+                _logger.LogInformation("Retrieved {Count} orders from database for UserId: {UserId}", orderedBooks.Count, userId);
                 return new ResponseDTO<List<OrderedBookDTO>>
                 {
                     IsSuccess = true,
-                    Message = "Ordered Books Retrieved Successfully!",
-                    Data = groupedBooks
+                    Message = "Orders Retrieved Successfully!",
+                    Data = orderedBooks
                 };
             }
             catch (Exception ex)
